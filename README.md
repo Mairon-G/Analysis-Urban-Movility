@@ -48,6 +48,9 @@ The objective was to explore whether traffic congestion has a measurable impact 
 └── README.md
 ```
 
+## Open in Colab 
+https://colab.research.google.com/drive/1TrCMtqwJmkqz0bQ2CQdH0uTfPwsa_m3r?usp=sharing
+
 ## Conclusion
 
 This project demonstrates an end-to-end data analytics workflow, from data preparation to insight generation, using real-world urban mobility and economic datasets. The findings highlight the complexity of urban productivity and the importance of combining mobility analysis with broader economic indicators.
